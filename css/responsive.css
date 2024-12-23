@@ -1,0 +1,22 @@
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .table {
+        font-size: 0.9em;
+    }
+
+    .btn {
+        padding: 0.25em 0.5em;
+        font-size: 0.8em;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 1.2em;
+    }
+
+    .card-header {
+        font-size: 1em;
+        text-align: center;
+    }
+}

@@ -1,0 +1,4 @@
+/* Evidenzia tutti gli elementi invisibili */
+* {
+    outline: none
+}
